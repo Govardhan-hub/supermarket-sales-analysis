@@ -1,5 +1,7 @@
 #  Supermarket Sales Analysis
 
+🚀 **[Live Dashboard](https://supermarket-sales-analysis-jrqksuoe7aygid2srcbbjh.streamlit.app/)**
+
 A beginner-friendly data analysis project based on supermarket sales data.
 
 The goal of this project is to clean the data, analyze sales patterns, visualize the results, and extract useful business insights using Python.
