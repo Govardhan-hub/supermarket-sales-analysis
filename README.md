@@ -1,4 +1,4 @@
-# 🛒 Supermarket Sales Analysis
+#  Supermarket Sales Analysis
 
 A beginner-friendly data analysis project based on supermarket sales data.
 
@@ -8,7 +8,7 @@ The project also includes an interactive Streamlit dashboard to make the analysi
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project follows a simple data analysis workflow:
 
@@ -28,7 +28,7 @@ The analysis focuses on areas such as:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains supermarket transaction records with information such as:
 
@@ -52,7 +52,7 @@ The dataset contains missing values and duplicate records, which were intentiona
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The following cleaning steps were performed using Pandas:
 
@@ -65,7 +65,7 @@ The following cleaning steps were performed using Pandas:
 
 ---
 
-## 🔍 Data Analysis
+##  Data Analysis
 
 Several business questions were explored using Pandas.
 
@@ -86,7 +86,7 @@ Some of the questions included:
 
 ---
 
-## 📈 Data Visualization
+##  Data Visualization
 
 Matplotlib was used to visualize the results of the analysis.
 
@@ -115,7 +115,7 @@ The project includes visualizations for:
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 Some of the main findings from the analysis were:
 
@@ -174,7 +174,7 @@ However, there were only **74 Unknown customer transactions**, compared with tho
 
 ---
 
-## 🖥️ Streamlit Dashboard
+##  Streamlit Dashboard
 
 The project also includes an interactive dashboard built using **Streamlit**.
 
