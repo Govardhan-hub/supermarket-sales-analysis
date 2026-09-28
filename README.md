@@ -1,6 +1,6 @@
 #  Supermarket Sales Analysis
 
-🚀 **[Live Dashboard](https://supermarket-sales-analysis-jrqksuoe7aygid2srcbbjh.streamlit.app/)**
+ **[Click here to visit Live Dashboard](https://supermarket-sales-analysis-jrqksuoe7aygid2srcbbjh.streamlit.app/)**
 
 A beginner-friendly data analysis project based on supermarket sales data.
 
